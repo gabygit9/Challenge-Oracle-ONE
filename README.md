@@ -10,9 +10,9 @@
 >➜[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 >➜[Funcionalidades](#Funcionalidades)
-    <li>[Conversor de Monedas](#Conversor-monedas)</li>
-    <li>[Conversor de Temperatura](#Conversor-temperatura)</li>
-    <li>[Conversor de Longitud](#Conversor-longitud)</li>
+    <li>[Conversor de Monedas](#Conversor-de-monedas)</li>
+    <li>[Conversor de Temperatura](#Conversor-de-temperatura)</li>
+    <li>[Conversor de Longitud](#Conversor-de-longitud)</li>
     
 >➜[Uso del programa](#Uso-del-programa)
 
